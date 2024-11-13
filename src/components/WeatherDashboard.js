@@ -130,6 +130,7 @@ const WeatherDashboard = () => {
           </div>
         ))}
       </div>
+      <h5>Weather Dashboard © 2024 Made By Dhruv Jaiswal</h5>
     </div>
   );
 };

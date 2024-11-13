@@ -47,7 +47,7 @@ A responsive Weather Dashboard web application built with React that lets users 
 
 4. Start the Application:
 
-    bash
+    ```bash
 
     npm start
     # or
@@ -92,6 +92,10 @@ A responsive Weather Dashboard web application built with React that lets users 
 - More Detailed Forecast: Add hourly forecast data for more detailed insights.
 - Localization: Add support for multiple languages.
 
+### Screen-Shot
+- ![CHEESE!](images\weather-dash-img.PNG)
+- ![CHEESE!](images\weather-dash-img2.PNG)
+
 
 ### Note: 
 
@@ -99,4 +103,4 @@ A responsive Weather Dashboard web application built with React that lets users 
 
 ### Deployment Link
 
-- URL :- 
+- URL :- https://weathers-dashboard.netlify.app/

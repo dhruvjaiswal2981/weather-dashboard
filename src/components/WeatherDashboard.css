@@ -149,6 +149,10 @@ button[type="submit"] {
     margin-top: 15px;
 }
 
+h5{
+    padding-top: 15px;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .weather-dashboard {
