@@ -93,8 +93,9 @@ A responsive Weather Dashboard web application built with React that lets users 
 - Localization: Add support for multiple languages.
 
 ### Screen-Shot
-- ![CHEESE!](images\weather-dash-img.PNG)
-- ![CHEESE!](images\weather-dash-img2.PNG)
+- ![CHEESE!](images\weather%20dash%20img.PNG)
+- ![CHEESE!](images\weather%20dash%20img2.PNG)
+
 
 
 ### Note: 
