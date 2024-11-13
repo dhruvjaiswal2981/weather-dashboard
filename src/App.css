@@ -1,0 +1,107 @@
+/* App.css */
+
+/* General Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    color: #333;
+  }
+  
+  .App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Weather Dashboard Container */
+  .weather-dashboard {
+    width: 1400px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  /* Input and Button Styles */
+  .weather-dashboard input[type="text"] {
+    width: 70%;
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .weather-dashboard button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .weather-dashboard button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Weather Data Card */
+  .weather-card {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #e9f7fe;
+    border-radius: 8px;
+    text-align: left;
+  }
+  
+  .weather-card h3 {
+    margin-top: 0;
+    color: #007bff;
+  }
+  
+  .weather-card p {
+    margin: 8px 0;
+    font-size: 16px;
+  }
+  
+  /* Forecast Grid */
+  .forecast-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 15px;
+  }
+  
+  .forecast-item {
+    flex: 1 1 calc(50% - 10px);
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .forecast-item p {
+    margin: 5px 0;
+    font-size: 14px;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 600px) {
+    .weather-dashboard input[type="text"] {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  
+    .forecast-grid {
+      display: block;
+    }
+  
+    .forecast-item {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  }
+  
