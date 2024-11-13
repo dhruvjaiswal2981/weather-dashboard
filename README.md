@@ -92,12 +92,12 @@ A responsive Weather Dashboard web application built with React that lets users 
 - More Detailed Forecast: Add hourly forecast data for more detailed insights.
 - Localization: Add support for multiple languages.
 
-### Screen-Shot
+### Screenshots
 
-![Weather Dashboard Screenshot](./images/weather_dash_img.png)
-- ![CHEESE!](images\weather%20dash%20img2.PNG)
-
-
+- Light Mode
+    - ![Weather Dashboard Screenshot](./images/weather dash img.PNG)
+- Dark Mode
+    - ![Weather Dashboard Screenshot](./images/weather dash img2.PNG)
 
 ### Note: 
 
