@@ -95,9 +95,9 @@ A responsive Weather Dashboard web application built with React that lets users 
 ### Screenshots
 
 - Light Mode
-    - ![Weather Dashboard Screenshot](./images/weather dash img.PNG)
+    - ![Weather Dashboard Screenshot](./images/weather_dash_img.PNG)
 - Dark Mode
-    - ![Weather Dashboard Screenshot](./images/weather dash img2.PNG)
+    - ![Weather Dashboard Screenshot](./images/weather_dash_img2.PNG)
 
 ### Note: 
 
