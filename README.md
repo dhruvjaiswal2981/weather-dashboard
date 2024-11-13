@@ -28,14 +28,14 @@ A responsive Weather Dashboard web application built with React that lets users 
 
 1. Clone the Repository:
 
-    bash
+    ```bash
 
-    git clone https://github.com/your-username/weather-dashboard.git
+    git clone https://github.com/dhruvjaiswal2981/weather-dashboard.git
     cd weather-dashboard
 
 2. Install Dependencies: Ensure you have npm or yarn installed, then run:
 
-    bash
+    ```bash
 
     npm install
     # or
